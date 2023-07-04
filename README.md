@@ -1,1 +1,1 @@
-# my-django-app
+# Django app
